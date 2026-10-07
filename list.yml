@@ -40,6 +40,9 @@ sections:
     - name: tern-pokemon
       url: https://github.com/ITSyndicate25/tern-pokemon
       description: Ports vscode-pokemon to a block where Pokémon walk, sit and get petted on themed beach, forest and castle scenes, drawn natively with animated GIF sprites and no web view.
+    - name: tern-rss
+      url: https://github.com/bmanturner/tern-rss
+      description: Follows RSS and Atom feeds in a block with expandable previews, articles in a docked reader browser, toasts for starred feeds and a catch-up line instead of an ever-growing unread count.
   - title: Window and workflow
     blurb: Window plugins add commands, keybindings, layouts, and status-line segments.
     entries:
