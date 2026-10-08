@@ -25,9 +25,6 @@ sections:
     - name: tern-margin
       url: https://github.com/Noctivoro/tern-margin
       description: Renders a Markdown file block by block so you can leave CriticMarkup comments on any paragraph, list, table or code block, and hands them back to the agent that opened it.
-    - name: tern-rss
-      url: https://github.com/bmanturner/tern-rss
-      description: RSS and Atom reader block with headlines, previews, a docked browser for articles, favorites and toasts for new posts from starred feeds.
     - name: tern-video-block
       url: https://github.com/verticalrectangle/tern-video-block
       description: Opens video files in a block with mpv sound, frame stepping and synced side-by-side playback using ffmpeg and the kitty graphics protocol.
